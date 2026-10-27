@@ -22,6 +22,11 @@ jobs:
           git fetch pokeminers master
           git checkout pokeminers/master -- "Images/Pokemon - 256x256/Addressable Assets"
 
+      - name: Write the file list
+        # One filename per line, read by RepDex (Admin → Unused images) without listing the folder through the GitHub API.
+        run: |
+          ls -1 "Images/Pokemon - 256x256/Addressable Assets" | LC_ALL=C sort > "Images/Pokemon - 256x256/files.txt"
+
       - name: Commit and push changes
         run: |
           git config user.name "GitHub Actions"
@@ -32,6 +37,6 @@ jobs:
             exit 0
           fi
 
-          git add "Images/Pokemon - 256x256/Addressable Assets"
+          git add "Images/Pokemon - 256x256/Addressable Assets" "Images/Pokemon - 256x256/files.txt"
           git commit -m "Sync Pokemon addressable assets"
           git push origin HEAD:main
