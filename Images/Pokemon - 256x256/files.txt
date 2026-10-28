@@ -352,6 +352,8 @@ pm167.icon.png
 pm167.s.icon.png
 pm168.icon.png
 pm168.s.icon.png
+pm169.fHALLOWEEN_2026_01.icon.png
+pm169.fHALLOWEEN_2026_01.s.icon.png
 pm169.icon.png
 pm169.s.icon.png
 pm17.icon.png
@@ -930,6 +932,10 @@ pm25.fANNIVERSARY_2026_TAIWAN_01.g2.icon.png
 pm25.fANNIVERSARY_2026_TAIWAN_01.g2.s.icon.png
 pm25.fANNIVERSARY_2026_TAIWAN_01.icon.png
 pm25.fANNIVERSARY_2026_TAIWAN_01.s.icon.png
+pm25.fANNIVERSARY_2026_THAILAND_01.g2.icon.png
+pm25.fANNIVERSARY_2026_THAILAND_01.g2.s.icon.png
+pm25.fANNIVERSARY_2026_THAILAND_01.icon.png
+pm25.fANNIVERSARY_2026_THAILAND_01.s.icon.png
 pm25.fBB_2026.g2.icon.png
 pm25.fBB_2026.g2.s.icon.png
 pm25.fBB_2026.icon.png
@@ -1872,6 +1878,10 @@ pm408.icon.png
 pm408.s.icon.png
 pm409.icon.png
 pm409.s.icon.png
+pm41.fHALLOWEEN_2026_01.g2.icon.png
+pm41.fHALLOWEEN_2026_01.g2.s.icon.png
+pm41.fHALLOWEEN_2026_01.icon.png
+pm41.fHALLOWEEN_2026_01.s.icon.png
 pm41.g2.icon.png
 pm41.g2.s.icon.png
 pm41.icon.png
@@ -1912,6 +1922,10 @@ pm419.g2.icon.png
 pm419.g2.s.icon.png
 pm419.icon.png
 pm419.s.icon.png
+pm42.fHALLOWEEN_2026_01.g2.icon.png
+pm42.fHALLOWEEN_2026_01.g2.s.icon.png
+pm42.fHALLOWEEN_2026_01.icon.png
+pm42.fHALLOWEEN_2026_01.s.icon.png
 pm42.g2.icon.png
 pm42.g2.s.icon.png
 pm42.icon.png
